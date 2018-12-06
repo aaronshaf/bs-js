@@ -1,0 +1,13 @@
+{
+  "name": "bs-js",
+  "version": "1.0.0",
+  "description": "bs-platform js assets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshaf/bs-js.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/aaronshaf/bs-js/issues"
+  }
+}
